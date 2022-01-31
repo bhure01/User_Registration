@@ -2,6 +2,7 @@ package com.bridgelabz.main;
 
 import java.util.regex.Pattern;
 
+
 public class UserRegistration {
 
     private static final Pattern FIRST_NAME_PATTERN = Pattern.compile("[A-Z]{1}[a-z]{2,}");

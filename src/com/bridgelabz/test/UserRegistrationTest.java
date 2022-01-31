@@ -16,7 +16,6 @@ import static org.junit.Assert.assertTrue;
 // RunWith(Parameterized.class)
 public class UserRegistrationTest {
 
-
     // Given First Name Should Return True
     @Test
     public void whenGivenFirstNameShouldReturnTrueFirst() {
